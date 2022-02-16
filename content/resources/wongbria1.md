@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Steerable-Parachute Design and Testing Statement of Project
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-621-experimental-projects-i-spring-2003/ac2c4ed7b783acd1454ccc9748bd1be1_wongbria1.pdf
+file: /media/courses/16-621-experimental-projects-i-spring-2003/ac2c4ed7b783acd1454ccc9748bd1be1_wongbria1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: wongbria1.pdf
 uid: ac2c4ed7-b783-acd1-454c-cc9748bd1be1

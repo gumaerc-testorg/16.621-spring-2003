@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Simulating and Testing Ice Screw Performance in the Laboratory
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-621-experimental-projects-i-spring-2003/25418a50c4c18c32e5f6f4b4a5f391ba_bennettw.pdf
+file: /media/courses/16-621-experimental-projects-i-spring-2003/25418a50c4c18c32e5f6f4b4a5f391ba_bennettw.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: bennettw.pdf
 uid: 25418a50-c4c1-8c32-e5f6-f4b4a5f391ba

@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: Style Guide for 16.62X Experimental Projects
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-621-experimental-projects-i-spring-2003/c7a706d6cbff4abc21f13dd2085ee13c_style_guide_DC_version3.pdf
+file: /media/courses/16-621-experimental-projects-i-spring-2003/c7a706d6cbff4abc21f13dd2085ee13c_style_guide_DC_version3.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: style_guide_DC_version3.pdf
 uid: c7a706d6-cbff-4abc-21f1-3dd2085ee13c

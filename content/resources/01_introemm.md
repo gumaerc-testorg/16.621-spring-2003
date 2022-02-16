@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Welcome to 16.621/622
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-621-experimental-projects-i-spring-2003/cf28de4ca6627e328fed38a529fc017c_01_introemm.pdf
+file: /media/courses/16-621-experimental-projects-i-spring-2003/cf28de4ca6627e328fed38a529fc017c_01_introemm.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 01_introemm.pdf
 uid: cf28de4c-a662-7e32-8fed-38a529fc017c

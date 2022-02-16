@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Graphics that present data
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-621-experimental-projects-i-spring-2003/0dd0bf48cf0497a53a1d8a25f5c7420b_14_graphicsIIversionIIs03.pdf
+file: /media/courses/16-621-experimental-projects-i-spring-2003/0dd0bf48cf0497a53a1d8a25f5c7420b_14_graphicsIIversionIIs03.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 14_graphicsIIversionIIs03.pdf
 uid: 0dd0bf48-cf04-97a5-3a1d-8a25f5c7420b
