@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 107fd396-fc4f-eb8d-c099-9cf2c9bde36a
 resourcetype: Document
 title: style_guide_DC_version3.pdf
 uid: c7a706d6-cbff-4abc-21f1-3dd2085ee13c

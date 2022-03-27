@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 107fd396-fc4f-eb8d-c099-9cf2c9bde36a
 resourcetype: Document
 title: 621_Oral_Proposal_Rubric.pdf
 uid: f9fecb76-f443-8b5b-8f5c-b819ddf1a4be

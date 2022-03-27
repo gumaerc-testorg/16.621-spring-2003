@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 05eeb244-93fb-0b6a-7373-e40a4155b36f
 resourcetype: Document
 title: 09_measurement03.pdf
 uid: bb1c0a90-6b69-0832-fad0-c2e02982e165

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7b0af3dd-abe1-c129-1975-74e7242d545f
 resourcetype: Document
 title: demierry.pdf
 uid: 932b8cc2-9e57-ae0d-98c3-59e1e744db8c

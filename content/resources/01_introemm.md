@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 05eeb244-93fb-0b6a-7373-e40a4155b36f
 resourcetype: Document
 title: 01_introemm.pdf
 uid: cf28de4c-a662-7e32-8fed-38a529fc017c

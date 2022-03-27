@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 05eeb244-93fb-0b6a-7373-e40a4155b36f
 resourcetype: Document
 title: 05_621S03grading.pdf
 uid: bce237f2-6be1-dfa2-902a-fc503438b376

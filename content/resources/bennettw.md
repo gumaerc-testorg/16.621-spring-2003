@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7b0af3dd-abe1-c129-1975-74e7242d545f
 resourcetype: Document
 title: bennettw.pdf
 uid: 25418a50-c4c1-8c32-e5f6-f4b4a5f391ba

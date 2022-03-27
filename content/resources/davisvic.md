@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7b0af3dd-abe1-c129-1975-74e7242d545f
 resourcetype: Document
 title: davisvic.pdf
 uid: a9966122-a9fe-d7d9-916f-62a0912ad420

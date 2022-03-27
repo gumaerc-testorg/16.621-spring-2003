@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 107fd396-fc4f-eb8d-c099-9cf2c9bde36a
 resourcetype: Document
 title: what_is_exec_summary.pdf
 uid: 5f9516c1-06b8-76ea-b778-dc791cab8147

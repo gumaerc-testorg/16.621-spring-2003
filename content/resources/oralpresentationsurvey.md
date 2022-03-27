@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 107fd396-fc4f-eb8d-c099-9cf2c9bde36a
 resourcetype: Document
 title: OralPresentationSurvey.pdf
 uid: 0ccf3d39-e2a3-56e4-410e-2d21dbee2019

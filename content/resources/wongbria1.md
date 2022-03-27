@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7b0af3dd-abe1-c129-1975-74e7242d545f
 resourcetype: Document
 title: wongbria1.pdf
 uid: ac2c4ed7-b783-acd1-454c-cc9748bd1be1

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 107fd396-fc4f-eb8d-c099-9cf2c9bde36a
 resourcetype: Document
 title: 101__621ReactionsTo622ProgressReports.pdf
 uid: 0bee519a-8c80-16a3-3943-887b9dc9a8a1

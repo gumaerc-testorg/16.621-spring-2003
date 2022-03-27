@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 00658f78-cfe2-edb3-48b6-2a892c2c99a2
 resourcetype: Document
 title: 62x_syll.pdf
 uid: 55bb9a87-7735-2bdb-636d-24b276c1d18f

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 05eeb244-93fb-0b6a-7373-e40a4155b36f
 resourcetype: Document
 title: 14_graphicsIIversionIIs03.pdf
 uid: 0dd0bf48-cf04-97a5-3a1d-8a25f5c7420b
