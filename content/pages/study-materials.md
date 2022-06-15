@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
@@ -11,18 +12,18 @@ Because the faculty recognize that high quality communication is essential in en
 Communications Resources
 ------------------------
 
-Writing and Formatting Style Guide ([PDF]({{< baseurl >}}/resources/style_guide_dc_version3))
+Writing and Formatting Style Guide ({{% resource_link c7a706d6-cbff-4abc-21f1-3dd2085ee13c "PDF" %}})
 
-Preparing for Briefings ([PDF]({{< baseurl >}}/resources/preparing_for_breifings))
+Preparing for Briefings ({{% resource_link fff28898-402d-ff9f-500a-42f890582122 "PDF" %}})
 
-Executive Summaries ([PDF]({{< baseurl >}}/resources/what_is_exec_summary))
+Executive Summaries ({{% resource_link 5f9516c1-06b8-76ea-b778-dc791cab8147 "PDF" %}})
 
 Technical Resources
 -------------------
 
-Guide to the Wind Tunnel ([PDF - 2.2 MB]({{< baseurl >}}/resources/student_wt_guide))
+Guide to the Wind Tunnel ({{% resource_link f38ecde8-773f-d36c-0d8f-9069e6aa1df5 "PDF - 2.2 MB" %}})
 
 Sample Grading Rubrics
 ----------------------
 
-Oral Proposal Rubric ([PDF]({{< baseurl >}}/resources/621_oral_proposal_rubric))
+Oral Proposal Rubric ({{% resource_link f9fecb76-f443-8b5b-8f5c-b819ddf1a4be "PDF" %}})
