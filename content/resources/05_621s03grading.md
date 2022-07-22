@@ -5,6 +5,7 @@ file: /courses/16-621-experimental-projects-i-spring-2003/bce237f26be1dfa2902afc
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 05_621S03grading.pdf
 uid: bce237f2-6be1-dfa2-902a-fc503438b376
 ---
 Notes on 16.621 Grading
-

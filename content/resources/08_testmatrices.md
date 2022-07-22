@@ -5,6 +5,7 @@ file: /courses/16-621-experimental-projects-i-spring-2003/06b733792f220dbce1d185
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 08_testmatrices.pdf
 uid: 06b73379-2f22-0dbc-e1d1-85949c87888a
 ---
 Test Matrices
-

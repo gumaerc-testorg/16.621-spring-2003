@@ -5,6 +5,7 @@ file: /courses/16-621-experimental-projects-i-spring-2003/cf28de4ca6627e328fed38
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 01_introemm.pdf
 uid: cf28de4c-a662-7e32-8fed-38a529fc017c
 ---
 Welcome to 16.621/622
-

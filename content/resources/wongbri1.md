@@ -6,6 +6,7 @@ file: /courses/16-621-experimental-projects-i-spring-2003/b3651d9d580aede71873c9
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: wongbri1.pdf
 uid: b3651d9d-580a-ede7-1873-c9294cd720cb
 ---
 Assessment of Shape Memory Alloy Actuators for Steered Parachutes Final Proposal
-

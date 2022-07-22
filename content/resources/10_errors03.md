@@ -5,6 +5,7 @@ file: /courses/16-621-experimental-projects-i-spring-2003/95611e0d7e8670a26d6f04
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 10_errors03.pdf
 uid: 95611e0d-7e86-70a2-6d6f-04d90dc9733f
 ---
 Error Analysis (Uncertainity Analysis)
-

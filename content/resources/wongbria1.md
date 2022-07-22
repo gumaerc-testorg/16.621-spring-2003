@@ -5,6 +5,7 @@ file: /courses/16-621-experimental-projects-i-spring-2003/ac2c4ed7b783acd1454ccc
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: wongbria1.pdf
 uid: ac2c4ed7-b783-acd1-454c-cc9748bd1be1
 ---
 Steerable-Parachute Design and Testing Statement of Project
-

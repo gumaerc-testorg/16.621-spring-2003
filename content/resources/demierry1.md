@@ -5,6 +5,7 @@ file: /courses/16-621-experimental-projects-i-spring-2003/9b4f3222df69a978b1b387
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: demierry1.pdf
 uid: 9b4f3222-df69-a978-b1b3-8770494d0866
 ---
 Control Algorithms For Space Tug Rendezvous Statement of Project
-

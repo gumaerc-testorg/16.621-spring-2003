@@ -5,6 +5,7 @@ file: /courses/16-621-experimental-projects-i-spring-2003/25418a50c4c18c32e5f6f4
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: bennettw.pdf
 uid: 25418a50-c4c1-8c32-e5f6-f4b4a5f391ba
 ---
 Simulating and Testing Ice Screw Performance in the Laboratory
-
