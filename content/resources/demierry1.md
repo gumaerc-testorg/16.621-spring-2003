@@ -2,6 +2,7 @@
 content_type: resource
 description: Control Algorithms For Space Tug Rendezvous Statement of Project
 file: /courses/16-621-experimental-projects-i-spring-2003/9b4f3222df69a978b1b38770494d0866_demierry1.pdf
+file_size: 34897
 file_type: application/pdf
 learning_resource_types:
 - Projects
