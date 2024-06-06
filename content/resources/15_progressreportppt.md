@@ -2,6 +2,7 @@
 content_type: resource
 description: Progress Reports
 file: /courses/16-621-experimental-projects-i-spring-2003/a3b2bc8b79d3886fe5b845f2b4cbd9aa_15_progressreportppt.pdf
+file_size: 69547
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
