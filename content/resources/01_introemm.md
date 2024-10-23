@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Welcome to 16.621/622
-file: /courses/16-621-experimental-projects-i-spring-2003/cf28de4ca6627e328fed38a529fc017c_01_introemm.pdf
+file: /ol-ocw-studio-app/courses/16-621-experimental-projects-i-spring-2003/cf28de4ca6627e328fed38a529fc017c_01_introemm.pdf
 file_size: 167461
 file_type: application/pdf
 learning_resource_types:
