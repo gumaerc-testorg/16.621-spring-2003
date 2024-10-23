@@ -2,7 +2,7 @@
 content_type: resource
 description: Preparing for progress reports, informal reviews, team meetings or other
   briefings
-file: /courses/16-621-experimental-projects-i-spring-2003/fff28898402dff9f500a42f890582122_preparing_for_breifings.pdf
+file: /ol-ocw-studio-app/courses/16-621-experimental-projects-i-spring-2003/fff28898402dff9f500a42f890582122_preparing_for_breifings.pdf
 file_size: 21781
 file_type: application/pdf
 learning_resource_types: []
