@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Test Matrices
-file: /ol-ocw-studio-app/courses/16-621-experimental-projects-i-spring-2003/06b733792f220dbce1d185949c87888a_08_testmatrices.pdf
+file: /courses/16-621-experimental-projects-i-spring-2003/06b733792f220dbce1d185949c87888a_08_testmatrices.pdf
 file_size: 120399
 file_type: application/pdf
 learning_resource_types:

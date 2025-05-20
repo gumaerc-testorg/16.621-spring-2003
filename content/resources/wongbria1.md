@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Steerable-Parachute Design and Testing Statement of Project
-file: /ol-ocw-studio-app/courses/16-621-experimental-projects-i-spring-2003/ac2c4ed7b783acd1454ccc9748bd1be1_wongbria1.pdf
+file: /courses/16-621-experimental-projects-i-spring-2003/ac2c4ed7b783acd1454ccc9748bd1be1_wongbria1.pdf
 file_size: 30526
 file_type: application/pdf
 learning_resource_types:
