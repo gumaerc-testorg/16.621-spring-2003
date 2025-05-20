@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Reactions to 16.622 Progress Reports
-file: /ol-ocw-studio-app/courses/16-621-experimental-projects-i-spring-2003/0bee519a8c8016a33943887b9dc9a8a1_101__621ReactionsTo622ProgressReports.pdf
+file: /courses/16-621-experimental-projects-i-spring-2003/0bee519a8c8016a33943887b9dc9a8a1_101__621ReactionsTo622ProgressReports.pdf
 file_size: 28648
 file_type: application/pdf
 learning_resource_types: []
