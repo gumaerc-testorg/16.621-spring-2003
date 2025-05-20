@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: What is an Executive Summary?
-file: /ol-ocw-studio-app/courses/16-621-experimental-projects-i-spring-2003/5f9516c106b876eab778dc791cab8147_what_is_exec_summary.pdf
+file: /courses/16-621-experimental-projects-i-spring-2003/5f9516c106b876eab778dc791cab8147_what_is_exec_summary.pdf
 file_size: 11143
 file_type: application/pdf
 learning_resource_types: []

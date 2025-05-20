@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Data Analysis
-file: /ol-ocw-studio-app/courses/16-621-experimental-projects-i-spring-2003/02a3206095cc01e2f672d10d99bd2947_11_dataanalysis.pdf
+file: /courses/16-621-experimental-projects-i-spring-2003/02a3206095cc01e2f672d10d99bd2947_11_dataanalysis.pdf
 file_size: 86627
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Creating effective graphics
-file: /ol-ocw-studio-app/courses/16-621-experimental-projects-i-spring-2003/722b4d8eed1815fb40c6583d1d9bc520_13_graphicsiversionIIs03_to_CMS.pdf
+file: /courses/16-621-experimental-projects-i-spring-2003/722b4d8eed1815fb40c6583d1d9bc520_13_graphicsiversionIIs03_to_CMS.pdf
 file_size: 215635
 file_type: application/pdf
 learning_resource_types:
