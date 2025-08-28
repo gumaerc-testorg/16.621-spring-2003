@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A STUDENT'S INTRODUCTION TO THE WRIGHT BROTHERS WIND TUNNEL
-file: /courses/16-621-experimental-projects-i-spring-2003/f38ecde8773fd36c0d8f9069e6aa1df5_student_wt_guide.pdf
+file: /ol-ocw-studio-app/courses/16-621-experimental-projects-i-spring-2003/f38ecde8773fd36c0d8f9069e6aa1df5_student_wt_guide.pdf
 file_size: 2330937
 file_type: application/pdf
 learning_resource_types: []

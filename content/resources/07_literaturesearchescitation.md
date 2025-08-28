@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Literature searches
-file: /courses/16-621-experimental-projects-i-spring-2003/9eb175d33b7a867c5307a97015d89053_07_literaturesearchescitation.pdf
+file: /ol-ocw-studio-app/courses/16-621-experimental-projects-i-spring-2003/9eb175d33b7a867c5307a97015d89053_07_literaturesearchescitation.pdf
 file_size: 222517
 file_type: application/pdf
 learning_resource_types:
