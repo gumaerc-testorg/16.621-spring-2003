@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Style Guide for 16.62X Experimental Projects
-file: /courses/16-621-experimental-projects-i-spring-2003/c7a706d6cbff4abc21f13dd2085ee13c_style_guide_DC_version3.pdf
+file: /ol-ocw-studio-app/courses/16-621-experimental-projects-i-spring-2003/c7a706d6cbff4abc21f13dd2085ee13c_style_guide_DC_version3.pdf
 file_size: 103679
 file_type: application/pdf
 learning_resource_types: []
